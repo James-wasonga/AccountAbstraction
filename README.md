@@ -1,4 +1,4 @@
-## Week 5: Understanding & Applying Account Abstraction (EIP-4337)
+## Understanding & Applying Account Abstraction (EIP-4337)
 
 ### Part 1: Conceptual Questions
 
